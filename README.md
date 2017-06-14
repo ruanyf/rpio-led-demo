@@ -4,7 +4,7 @@ This repo is a demo of controlling an LED with Raspberry Pi's GPIO, based on Jon
 
 ## Devices
 
-Following things are needed.
+Following devices are needed.
 
 - A Raspberry Pi
 - A BreadBoard
