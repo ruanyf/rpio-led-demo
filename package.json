@@ -1,0 +1,19 @@
+{
+  "name": "rpio-led-demo",
+  "version": "1.0.0",
+  "description": "a demo of controlling an LED with Raspberry Pi's GPIO",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Raspberry Pi",
+    "GPIO"
+  ],
+  "author": "Ruan Yifeng",
+  "license": "ISC",
+  "dependencies": {
+    "rpio": "^0.9.16",
+    "server": "^1.0.0-beta.1"
+  }
+}
